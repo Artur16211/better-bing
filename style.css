@@ -177,3 +177,15 @@ div.tab-head > div > ul > li {
 #overlayPanel {
     background-color: var(--bb-bg-color) !important;
 }
+
+.b_snippetGobig {
+    background: linear-gradient(2.26deg,#383838 35.17%,#242424 171.21%) !important;
+}
+
+#b_results>li.b_algoBorder.b_algo_feedback {
+    margin-bottom: 39px !important;
+}
+
+.b_gobig_feedback {
+    bottom: -24px !important;
+}
